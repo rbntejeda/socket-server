@@ -1,0 +1,16 @@
+{
+  "name": "socket-server",
+  "version": "0.0.1",
+  "description": "socke.io with angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben Eduardo Tejeda Roa",
+  "license": "ISC",
+  "dependencies": {
+    "@types/socket.io": "^2.1.2",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
